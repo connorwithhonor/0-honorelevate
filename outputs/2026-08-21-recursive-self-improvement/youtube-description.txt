@@ -1,8 +1,8 @@
 What happens the day artificial intelligence learns to improve itself without us? Recursive self-improvement is the line between the AI we use today and something we have never had to share a planet with. Every model on earth still needs a human in the loop. Somebody has an idea, writes the code, runs the training, checks the output. Take the human out of that loop and the clock changes speed. That is the whole conversation here, in kitchen table language, for the plumber, the veteran, and the single mom who keep hearing the words and never get the translation.
 
-Down this rabbit hole since 2021. Programming out of magazines since 1983. Over 1,000 brokers and agents trained to run these tools in real businesses. This is the view from inside the work, not a commentary take.
+Down this rabbit hole since 2021. Programming out of magazines since 1983. Over 1,000 brokers and agents trained on these tools in real businesses. This is the view from inside the work.
 
-State of play, August 2026. The big systems are trained on so much data that labs now generate synthetic data to keep feeding them. The models are specialists. One folds proteins. One plays chess. One writes code better than most people who do it for a living. Good hammers meeting the right nails. What the labs want next is a system better than us at everything, then a system that improves itself without asking permission.
+State of play, August 2026. The big systems are trained on so much data that labs now generate synthetic data to keep them fed. The models are specialists. One folds proteins. One plays chess. One writes code better than most people who do it for a living. Good hammers meeting the right nails. What the labs want next is a system better than us at everything, then a system that improves itself without asking permission.
 
 It is not here yet. If you work with a large language model all day you know why. Give it a real task and full authority and it still stops short. It hits a wall. Something breaks. There is a gremlin in the machine. That gap between what it almost does and what it needs to do is the last thing standing between now and everything after.
 
@@ -34,6 +34,7 @@ Right now it is a race, and it rhymes with the arms race. Two countries counting
 [ADD TIMESTAMPS HERE]
 
 WHERE TO FIND ME
+Book time with me: https://bookwithhonor.com
 Main hub: https://connorwithhonor.com
 AI systems and automation: https://honorelevate.com
 24/7 AI voice agents for small business: https://hireaivoice.com
@@ -43,7 +44,7 @@ Santa Clarita seller resources: https://scv123.com
 Sellers only representation: https://sellersonlyagent.com
 The Last Addiction: https://thelastaddiction.com
 
-Built from Santa Clarita, California. Serving SCV, Los Angeles County, and Southern California.
+Built from Santa Clarita, California. Serving SCV, LA County, and Southern California.
 
 AI for everyone. Not just the wealthy.
 
