@@ -1,0 +1,1319 @@
+1
+00:00:00,011 --> 00:00:04,960
+So what happens when artificial intelligence gets recursive
+
+2
+00:00:04,961 --> 00:00:09,160
+self-improvement? What does that actually mean? And what does that gonna mean for us
+
+3
+00:00:09,161 --> 00:00:12,156
+as human beings in the future? How many paths are there,
+
+4
+00:00:12,157 --> 00:00:16,222
+and when, some of somebody gets that recursive self-improvement,
+
+5
+00:00:16,419 --> 00:00:18,486
+what's gonna happen then? Good day, everybody.
+
+6
+00:00:18,487 --> 00:00:20,651
+We're gonna get into this right at this moment.
+
+7
+00:00:20,652 --> 00:00:23,003
+Again, so many experts, the AI space,
+
+8
+00:00:23,360 --> 00:00:26,511
+I can read just like other people, I can comprehend just like other people.
+
+9
+00:00:26,512 --> 00:00:29,376
+Well, maybe not. Yeah, just like everybody. But not too bad.
+
+10
+00:00:29,527 --> 00:00:33,160
+So here's what I think. I've been crawling down this rabbit hole since 2021.
+
+11
+00:00:33,371 --> 00:00:36,656
+How'd I start out as a kid? Programming out of magazines.
+
+12
+00:00:36,752 --> 00:00:39,244
+They called it programming then. I guess it's not the thing now,
+
+13
+00:00:39,245 --> 00:00:43,146
+it's programming. It's coding. But here we are today in 2026.
+
+14
+00:00:43,147 --> 00:00:45,556
+We are getting close to the end of August.
+
+15
+00:00:45,557 --> 00:00:47,596
+And there's a lot of concern, of course.
+
+16
+00:00:47,927 --> 00:00:52,391
+It seems like the numbers that are relative towards people liking artificial intelligence,
+
+17
+00:00:52,392 --> 00:00:56,260
+,are not hating it as vehemently. They're relaxing just a little bit.
+
+18
+00:00:56,495 --> 00:00:59,656
+Human beings, you know, we're wonderful at that. We get used to things.
+
+19
+00:00:59,657 --> 00:01:02,247
+And we get used to bad things as well as we get used to
+
+20
+00:01:02,300 --> 00:01:04,497
+good things. If we start to put on weight,
+
+21
+00:01:04,571 --> 00:01:06,848
+you know, we get used to it. It isn't until we get there to
+
+22
+00:01:06,849 --> 00:01:09,224
+this critical level, we say, you know, I'm done.
+
+23
+00:01:09,413 --> 00:01:12,732
+And then even then, when you're done, yeah, a lot of cases you're really
+
+24
+00:01:12,733 --> 00:01:15,764
+done. Sorry about that. I've battled with that all my life,
+
+25
+00:01:15,765 --> 00:01:18,689
+and I finally was able to solve it, but it's always right around the
+
+26
+00:01:18,690 --> 00:01:21,438
+corner. Lurkin', just like artificial intelligence.
+
+27
+00:01:21,685 --> 00:01:24,039
+So here's what I think. Right now,
+
+28
+00:01:24,040 --> 00:01:26,960
+the systems are incredible. They're driven by data.
+
+29
+00:01:26,982 --> 00:01:29,173
+There's lots, lots of data. In fact,
+
+30
+00:01:29,174 --> 00:01:33,763
+there's so much data in these systems that apparently the right So they're making
+
+31
+00:01:33,764 --> 00:01:35,948
+up their own data, called synthetic data.
+
+32
+00:01:35,949 --> 00:01:39,136
+And now they're using that as a training module for these systems.
+
+33
+00:01:39,137 --> 00:01:41,172
+Now, all of them have all the data,
+
+34
+00:01:41,173 --> 00:01:44,365
+but then it has to be educated as to what the data really means.
+
+35
+00:01:44,759 --> 00:01:46,978
+So they sit down with it. In a way,
+
+36
+00:01:47,815 --> 00:01:51,976
+in a way of talking, and they start to help it identify certain things.
+
+37
+00:01:51,977 --> 00:01:54,895
+Once it has all the data and it's trained in a certain way,
+
+38
+00:01:55,149 --> 00:01:58,756
+then, apparently, they kind of release it into the world after a they do
+
+39
+00:01:58,757 --> 00:02:01,191
+their checks and balances and fail-safes. So,
+
+40
+00:02:01,192 --> 00:02:03,872
+that's where you see these little model releases that come out.
+
+41
+00:02:03,873 --> 00:02:06,757
+Some of them are. Some of big. Some of them are a whole brand
+
+42
+00:02:06,758 --> 00:02:10,180
+new model they talk about. Some of them are just kind of a change
+
+43
+00:02:10,181 --> 00:02:12,384
+of the current model. Some of them are all brand new.
+
+44
+00:02:12,392 --> 00:02:15,785
+Some of them, as you've seen, have been taken away from us as human
+
+45
+00:02:15,786 --> 00:02:18,611
+beings. We were given it for a little while, then it's taken away.
+
+46
+00:02:18,612 --> 00:02:22,988
+That was a shock to the system, because that would be like them tying
+
+47
+00:02:22,989 --> 00:02:25,331
+up the banks, or telling you that, well, sorry.
+
+48
+00:02:25,332 --> 00:02:28,926
+You can't drive anymore. Your driving privilege has been revoked,
+
+49
+00:02:29,126 --> 00:02:31,391
+and that includes everybody on the planet.
+
+50
+00:02:31,392 --> 00:02:33,915
+People that are used, and by no fault of their own,
+
+51
+00:02:34,223 --> 00:02:37,019
+not that they got popped for drunk driving or got in a crash and
+
+52
+00:02:37,020 --> 00:02:40,852
+left the seat. or have a car that's in horrible shape,
+
+53
+00:02:40,853 --> 00:02:43,576
+it's just the decision was made to snatch it.
+
+54
+00:02:43,577 --> 00:02:47,753
+this large-language model out from public ability to use.
+
+55
+00:02:47,999 --> 00:02:50,173
+Why? Well, because they say it was dangerous.
+
+56
+00:02:50,429 --> 00:02:52,435
+And this is the something that happens,
+
+57
+00:02:52,600 --> 00:02:56,983
+is happening more and more. It's being reported more and more.
+
+58
+00:02:56,984 --> 00:02:59,414
+It's probably been happening maybe. Maybe at the same pace,
+
+59
+00:02:59,720 --> 00:03:03,778
+but these little stories eke out into the world and maybe there's a sales
+
+60
+00:03:03,779 --> 00:03:07,275
+component behind it. Maybe there's a gangster component because,
+
+61
+00:03:07,276 --> 00:03:09,930
+you know, we like those things that are a little dangerous,
+
+62
+00:03:09,931 --> 00:03:13,245
+you know, the bad boys. All that sort of thing. Maybe that's the reason.
+
+63
+00:03:13,432 --> 00:03:18,692
+Maybe there's a bigger reason to release this information to a regular folks up-to-date
+
+64
+00:03:18,693 --> 00:03:23,591
+on the way artificial intelligence is moving forward.
+
+65
+00:03:23,592 --> 00:03:25,455
+If that's the case, hey, I'm all for it. But if they're doing it
+
+66
+00:03:25,456 --> 00:03:27,698
+because it's a marketing stunt, advertising stunt,
+
+67
+00:03:28,029 --> 00:03:30,074
+kind of a positioning stunt, yeah, I,
+
+68
+00:03:30,096 --> 00:03:32,702
+I think that's kind of that's a little crass.
+
+69
+00:03:32,703 --> 00:03:35,352
+That's not really proper, but people are going to do what they're going to
+
+70
+00:03:35,353 --> 00:03:38,343
+do, and human beings are wonderful at executing execution.
+
+71
+00:03:38,650 --> 00:03:41,665
+So let's move on. We have these large language models.
+
+72
+00:03:41,666 --> 00:03:44,056
+They're trained. You've probably dealt with them. You know it was.
+
+73
+00:03:44,057 --> 00:03:46,490
+No more than three, three years and,
+
+74
+00:03:46,491 --> 00:03:51,016
+uh, nine months ago or so that Chad GPT interviewed the market in November
+
+75
+00:03:51,017 --> 00:03:53,136
+of 2022, and what was that,
+
+76
+00:03:53,137 --> 00:03:56,471
+3.5? Once that made its public debut.
+
+77
+00:03:56,472 --> 00:04:01,268
+Within a few days, there were millions of people that were using the system,
+
+78
+00:04:01,269 --> 00:04:03,736
+billions. I mean, just, it grew so fast.
+
+79
+00:04:03,737 --> 00:04:06,124
+It just made everybody's head swim.
+
+80
+00:04:06,699 --> 00:04:09,008
+So at the very beginning, if you played with it back then,
+
+81
+00:04:09,009 --> 00:04:12,067
+it was nowhere near it is today. And tomorrow,
+
+82
+00:04:12,068 --> 00:04:15,100
+it's going to be nowhere where it is today. It'll be even better.
+
+83
+00:04:15,461 --> 00:04:17,471
+So it's consistently evolving.
+
+84
+00:04:17,472 --> 00:04:21,744
+Right now, it's evolving because computer programmers,
+
+85
+00:04:21,745 --> 00:04:24,892
+people really, really smart in the space. They have good ideas,
+
+86
+00:04:24,893 --> 00:04:28,274
+they say, hey, maybe this will work better, then they go and they strategize,
+
+87
+00:04:28,275 --> 00:04:30,352
+strategize, and strategize. They make that happen,
+
+88
+00:04:30,353 --> 00:04:33,407
+they execute it, and lo and behold, in some cases that works,
+
+89
+00:04:33,408 --> 00:04:36,616
+whatever this change happens to be, in some cases it doesn't.
+
+90
+00:04:36,617 --> 00:04:41,449
+But they're still trying, because they're trying to elevate the system far past
+
+91
+00:04:41,450 --> 00:04:43,628
+where it currently is. So currently,
+
+92
+00:04:43,629 --> 00:04:45,929
+they're very good at different things. Currently,
+
+93
+00:04:45,930 --> 00:04:50,771
+they're very good hammers as applied to nails in their own right.
+
+94
+00:04:50,772 --> 00:04:53,428
+One system might be very good at protein folding.
+
+95
+00:04:53,726 --> 00:04:56,026
+One system might be very good at playing chess.
+
+96
+00:04:56,027 --> 00:04:58,657
+Another system might at playing Mario Brothers.
+
+97
+00:04:58,658 --> 00:05:00,681
+You know, one go. One, one, one,
+
+98
+00:05:02,891 --> 00:05:05,038
+Medical Research, one this, one that.
+
+99
+00:05:05,039 --> 00:05:09,071
+But they all have their, their points of ability.
+
+100
+00:05:09,072 --> 00:05:11,202
+The next step,
+
+101
+00:05:11,204 --> 00:05:13,735
+or what they would like, and maybe it's already here,
+
+102
+00:05:13,736 --> 00:05:17,876
+because, and I only say that, because we don't know what's on the inside
+
+103
+00:05:17,877 --> 00:05:21,707
+of the factory that's building these out. We don't know what's on the inside
+
+104
+00:05:21,708 --> 00:05:24,663
+of the technological company, the IT Anthropic,
+
+105
+00:05:24,664 --> 00:05:28,360
+which runs Claude, may be a good chance to be a winner.
+
+106
+00:05:28,582 --> 00:05:31,843
+We have ChatGPC. which is owned by OpenAI,
+
+107
+00:05:31,844 --> 00:05:35,207
+another good chance, another big, high-level contender.
+
+108
+00:05:35,719 --> 00:05:38,467
+The other, ones, Microsoft Co-Pilot,
+
+109
+00:05:38,990 --> 00:05:42,371
+maybe, I mean, you don't know because for a while Gromit,
+
+110
+00:05:42,372 --> 00:05:46,814
+Rock was not really heard of until Elon Musk bought a company called Cursor.
+
+111
+00:05:47,159 --> 00:05:49,675
+I think that's a done deal. But do your research.
+
+112
+00:05:50,008 --> 00:05:54,887
+But with that, and Brock, and all of Elon's ability
+
+113
+00:05:54,888 --> 00:05:58,637
+with computing. and these massive data centers that he has,
+
+114
+00:05:58,638 --> 00:06:01,758
+Colossus 1 and 2, and potentially more,
+
+115
+00:06:01,759 --> 00:06:05,270
+and the future build out. He's coming back in the game.
+
+116
+00:06:05,374 --> 00:06:07,890
+So, instead of 2, now maybe 3.
+
+117
+00:06:07,891 --> 00:06:12,449
+And if Google does something, they're building their own fancy type of chip,
+
+118
+00:06:12,450 --> 00:06:16,529
+maybe 4. And now you have them all running in the same space.
+
+119
+00:06:16,900 --> 00:06:19,148
+Maybe Microsoft figures something out,
+
+120
+00:06:19,149 --> 00:06:21,736
+maybe the open source world out of Thank you.
+
+121
+00:06:21,737 --> 00:06:24,362
+trying to figure something out. And again,
+
+122
+00:06:24,363 --> 00:06:27,916
+we keep going. But up until this point, that figuring something out.
+
+123
+00:06:27,917 --> 00:06:31,641
+These are humans in combination with artificial intelligence,
+
+124
+00:06:32,064 --> 00:06:34,751
+very smart systems, more than the ones that we're seeing on the planet.
+
+125
+00:06:34,752 --> 00:06:39,041
+So you're $20 a month cloud membership or,
+
+126
+00:06:39,175 --> 00:06:41,591
+and, or, uh, opening iChat GPT membership.
+
+127
+00:06:41,592 --> 00:06:44,704
+Yeah, it's, it's, they're using something a whole different,
+
+128
+00:06:44,789 --> 00:06:48,851
+whole different monkey for that one. We're watching these things being built out.
+
+129
+00:06:48,852 --> 00:06:52,592
+and all the news that comes out, and people's big distrust,
+
+130
+00:06:52,593 --> 00:06:55,156
+and then you have the Doomer saying, well, it's going to end us all.
+
+131
+00:06:55,157 --> 00:06:59,432
+You have the people that are looking forward to the plenty that it brings
+
+132
+00:06:59,433 --> 00:07:01,621
+in in the very near future. You know? I don't I'm with,
+
+133
+00:07:01,622 --> 00:07:04,885
+I want to be with the plenty people because it sucks being negative all
+
+134
+00:07:04,886 --> 00:07:07,271
+the time. So I'm, I'm all willing to buy into that.
+
+135
+00:07:07,272 --> 00:07:10,674
+But I'm going to be cautious, and I'm probably not going to be the
+
+136
+00:07:10,675 --> 00:07:13,646
+first one through the door with a brain transplant or some kind of a
+
+137
+00:07:13,647 --> 00:07:15,698
+nervous neurological implant to let me be,
+
+138
+00:07:15,961 --> 00:07:20,618
+or level myself up in accordance with the artificial intelligence systems that make
+
+139
+00:07:20,619 --> 00:07:24,308
+my brain work. a little better, better, or be more plugged in to the
+
+140
+00:07:24,309 --> 00:07:27,541
+system itself. But maybe a hundred through the door,
+
+141
+00:07:27,542 --> 00:07:30,495
+a thousand. Or after they get it done a million times,
+
+142
+00:07:31,307 --> 00:07:33,371
+kind of my way, but who knows.
+
+143
+00:07:33,491 --> 00:07:35,827
+Maybe at some point. They'll say, this is great,
+
+144
+00:07:35,828 --> 00:07:38,016
+and we've done 10, and you need to jump on it,
+
+145
+00:07:38,017 --> 00:07:40,631
+and for you, it'll be free, because we want you to provide your services.
+
+146
+00:07:40,632 --> 00:07:44,688
+Who knows what will happen, right? We just never know.
+
+147
+00:07:46,105 --> 00:07:48,496
+So that's where we're these models are, and they're getting better.
+
+148
+00:07:48,629 --> 00:07:50,682
+And there's a human in the loop, at least,
+
+149
+00:07:51,188 --> 00:07:55,827
+what it would appear so, but you hear some of that insider talk that
+
+150
+00:07:55,828 --> 00:08:00,311
+gets eked out via X or via other social media platforms.
+
+151
+00:08:00,312 --> 00:08:02,436
+Other media channels, other news reports,
+
+152
+00:08:02,437 --> 00:08:06,621
+and, yeah, some are saying it's a lot more it than it is us.
+
+153
+00:08:06,622 --> 00:08:09,886
+It's a lot more of the system doing itself,
+
+154
+00:08:10,930 --> 00:08:13,731
+the system maintaining itself, learning from itself,
+
+155
+00:08:13,732 --> 00:08:17,182
+making itself. better than it is us. And if that's the case,
+
+156
+00:08:17,183 --> 00:08:22,086
+what will be even more interesting is when the system
+
+157
+00:08:22,087 --> 00:08:25,120
+starts doing it to itself all on its own,
+
+158
+00:08:25,315 --> 00:08:27,642
+making itself better. I'm sorry, that sounded different.
+
+159
+00:08:28,075 --> 00:08:30,276
+But making itself better all on its own.
+
+160
+00:08:30,277 --> 00:08:32,775
+That's called recursive self-improvement. And,
+
+161
+00:08:33,564 --> 00:08:38,320
+apparently, it's not a real thing yet because it can't
+
+162
+00:08:38,321 --> 00:08:40,962
+continually be. do it. There's breakage.
+
+163
+00:08:41,309 --> 00:08:43,841
+There's a shortfall. There's choking.
+
+164
+00:08:44,274 --> 00:08:47,645
+If you have, uh, your own large language. Model you work with this a
+
+165
+00:08:47,646 --> 00:08:49,796
+lot of a lot of your your day,
+
+166
+00:08:49,797 --> 00:08:53,045
+you'll find out that you can give it a task and even.
+
+167
+00:08:52,795 --> 00:08:55,739
+Even if you give it all the ability,
+
+168
+00:08:56,476 --> 00:08:59,596
+it mostly will stop short of achieving your goal.
+
+169
+00:08:59,597 --> 00:09:05,901
+done. It depends on even
+
+170
+00:09:05,902 --> 00:09:11,769
+when it's given full do everything it it's
+
+171
+00:09:11,770 --> 00:09:14,993
+going to butt up against a wall, there's going to be some glitch,
+
+172
+00:09:14,994 --> 00:09:17,716
+some gremlin in the machine that causes it to stop.
+
+173
+00:09:19,489 --> 00:09:22,056
+That's the, that's improvement of an idea, your idea,
+
+174
+00:09:22,057 --> 00:09:25,197
+maybe an idea it came up with, and the expansion of the of something
+
+175
+00:09:25,198 --> 00:09:27,228
+that you want to do, your business, or a thought,
+
+176
+00:09:27,229 --> 00:09:29,427
+or making your life better, whatever it may be.
+
+177
+00:09:29,892 --> 00:09:34,381
+Making the entire system better. A little bit different,
+
+178
+00:09:34,808 --> 00:09:38,196
+but those programmers, those people that are watching the system,
+
+179
+00:09:38,197 --> 00:09:42,230
+have the same confusion come out of it when you would ask a brain
+
+180
+00:09:42,231 --> 00:09:45,011
+surgeon, hey, why, why did this human do that right now?
+
+181
+00:09:45,012 --> 00:09:48,227
+You're monitoring their brain, you have their head strapped with the,
+
+182
+00:09:48,228 --> 00:09:51,071
+uh, the device with the little electrodes and sensing.
+
+183
+00:09:51,072 --> 00:09:55,397
+every part of the brain. You have the best equipment monitoring everything going on
+
+184
+00:09:55,398 --> 00:09:57,994
+in the brain at the level that we can. We can see it.
+
+185
+00:09:58,502 --> 00:10:00,859
+Why did they just decide to eat that cookie?
+
+186
+00:10:01,421 --> 00:10:03,431
+Why did they just decide to turn on the TV?
+
+187
+00:10:03,432 --> 00:10:06,918
+Why, why did they say that they want to go buy a loaf of
+
+188
+00:10:06,919 --> 00:10:09,481
+bread when they actually have one? It,
+
+189
+00:10:09,602 --> 00:10:14,240
+why is that? And you can't even tell exactly where
+
+190
+00:10:14,241 --> 00:10:16,303
+it came from and why it was done.
+
+191
+00:10:16,832 --> 00:10:21,816
+You ask, these people that are in charge of building out these massive
+
+192
+00:10:21,817 --> 00:10:26,605
+artificial intelligent brains the same question and you
+
+193
+00:10:26,606 --> 00:10:29,193
+get an eerily similar answer.
+
+194
+00:10:29,650 --> 00:10:31,724
+They just don't know. And, yeah,
+
+195
+00:10:31,880 --> 00:10:34,173
+big enough, enough data, enough information,
+
+196
+00:10:34,266 --> 00:10:38,298
+fast, instead of running at 40 watts or whatever our brain runs,
+
+197
+00:10:38,792 --> 00:10:40,815
+gigawatts. It's a bunch.
+
+198
+00:10:40,816 --> 00:10:43,572
+It's a whole different animal. It's artificial.
+
+199
+00:10:44,091 --> 00:10:47,377
+Artificial kind of carries with it less than the original,
+
+200
+00:10:47,378 --> 00:10:50,973
+or not as good. Usually the second movie that comes out,
+
+201
+00:10:50,974 --> 00:10:54,611
+with very few exceptions, is not as good as the first movie that came
+
+202
+00:10:54,612 --> 00:10:56,982
+out. Artificial kind of leads you to believe,
+
+203
+00:10:56,983 --> 00:10:59,723
+yeah, this isn't bad. This is better.
+
+204
+00:11:00,314 --> 00:11:03,208
+Potentially better than all of us in all respects.
+
+205
+00:11:03,692 --> 00:11:07,135
+Hence, artificial general intelligence.
+
+206
+00:11:07,136 --> 00:11:10,104
+Better than us in all areas. So now,
+
+207
+00:11:10,105 --> 00:11:13,387
+if the scientists that are building out the technology don't really,
+
+208
+00:11:13,893 --> 00:11:16,952
+don't really fathom as to why it's making decisions,
+
+209
+00:11:17,255 --> 00:11:21,555
+and aren't really in the loop as far as helping the model improve all
+
+210
+00:11:21,556 --> 00:11:25,810
+the way as they used to be, then what happens next?
+
+211
+00:11:26,396 --> 00:11:31,128
+So let's say this, ,this little wall is demolished,
+
+212
+00:11:31,129 --> 00:11:33,879
+that the ability of artificial intelligence,
+
+213
+00:11:33,880 --> 00:11:37,468
+whether it's, whether Claude figures it out, whether OpenAI figures it out,
+
+214
+00:11:37,469 --> 00:11:39,838
+or some Chinese company,
+
+215
+00:11:39,839 --> 00:11:42,268
+or ... anybody else, fill in the blanks,
+
+216
+00:11:42,269 --> 00:11:46,816
+some kid in their garage in San Francisco figures it out.
+
+217
+00:11:46,817 --> 00:11:48,842
+Then at that point, what's that next step?
+
+218
+00:11:50,088 --> 00:11:53,329
+And I've thought about this and I've watched tons of videos on it.
+
+219
+00:11:53,330 --> 00:11:57,787
+I've. I've talked to some pretty brilliant people about it and I guess at
+
+220
+00:11:57,788 --> 00:12:00,311
+that point, nobody else would catch that.
+
+221
+00:12:00,312 --> 00:12:02,876
+Because,
+
+222
+00:12:03,289 --> 00:12:07,000
+it would be able to make itself better. It's such a speed and velocity
+
+223
+00:12:07,001 --> 00:12:09,575
+thing. It already baffles us.
+
+224
+00:12:09,576 --> 00:12:13,511
+It will baffle us more. And it would move so quickly.
+
+225
+00:12:13,512 --> 00:12:18,128
+It would go from Artificial General Intelligence to something greater
+
+226
+00:12:18,129 --> 00:12:21,658
+than that. Maybe different degrees. of General Intelligence.
+
+227
+00:12:21,659 --> 00:12:24,651
+I don't know if, to get to Superintelligence,
+
+228
+00:12:24,652 --> 00:12:26,947
+there needs to be more. pure embodiment.
+
+229
+00:12:27,417 --> 00:12:31,660
+Embodiment meaning there's enough robots out in the field to have explore the physical
+
+230
+00:12:31,661 --> 00:12:35,467
+world. Physical realm, but I think physics, the movement of things,
+
+231
+00:12:35,468 --> 00:12:37,996
+the reaction of things, the gravity of things.
+
+232
+00:12:37,997 --> 00:12:40,802
+Maybe it's been baked in and it's good enough.
+
+233
+00:12:42,066 --> 00:12:44,771
+I don't know if that's necessary. Way above my pay grade.
+
+234
+00:12:44,772 --> 00:12:49,516
+But what I do think is when these models do get recursive self-improvement,
+
+235
+00:12:49,517 --> 00:12:51,796
+if it hasn't happened already, and I don't think it has,
+
+236
+00:12:51,797 --> 00:12:54,661
+because I think the world would, when that happens,
+
+237
+00:12:54,662 --> 00:12:57,591
+it will change so rapidly,
+
+238
+00:12:58,003 --> 00:13:01,664
+one day, the world's this way and tomorrow it's different.
+
+239
+00:13:02,211 --> 00:13:04,991
+It would be as if an alien force landed on the planet.
+
+240
+00:13:04,992 --> 00:13:07,700
+Now, I'm not saying in a bad way.
+
+241
+00:13:08,071 --> 00:13:11,111
+It could be a huge win for everybody.
+
+242
+00:13:11,112 --> 00:13:14,072
+But, of course, you're going to have some unhappy people.
+
+243
+00:13:14,273 --> 00:13:16,500
+Unhappy people are in every walk of life.
+
+244
+00:13:16,648 --> 00:13:19,499
+You have people who have so much money they don't know what to do
+
+245
+00:13:19,500 --> 00:13:23,171
+with it and they're unhappy. I would like a chance at that.
+
+246
+00:13:23,172 --> 00:13:27,438
+To be unhappy at that level, because being unhappy broke sucks.
+
+247
+00:13:28,264 --> 00:13:30,664
+Anyway. So, that's the next step.
+
+248
+00:13:31,141 --> 00:13:34,362
+That recursive self-improvement, I think that's the game-changer.
+
+249
+00:13:34,363 --> 00:13:36,371
+And I think if, who knows,
+
+250
+00:13:36,372 --> 00:13:41,374
+whomever gets it, fill in the blank, it's going to move so quickly that
+
+251
+00:13:41,445 --> 00:13:44,427
+it's going to get where it needs to get. And nobody will catch up
+
+252
+00:13:44,428 --> 00:13:47,666
+because, and I was doing a talk yesterday in front of a whole bunch
+
+253
+00:13:47,667 --> 00:13:50,111
+of real estate agents here in Southern California.
+
+254
+00:13:50,112 --> 00:13:52,825
+And I didn't finish with this. And I thought this was important enough to
+
+255
+00:13:52,826 --> 00:13:57,665
+do its own standalone video on. Once it gets there,
+
+256
+00:13:58,146 --> 00:14:01,597
+whomever the human behind the machine,
+
+257
+00:14:01,610 --> 00:14:05,319
+I would guess. The first order of business would be,
+
+258
+00:14:05,802 --> 00:14:08,069
+do not. And I repeat,
+
+259
+00:14:08,070 --> 00:14:12,722
+do not. Allow any other lab on this planet to catch up with
+
+260
+00:14:12,723 --> 00:14:16,092
+us. That would be the first step.
+
+261
+00:14:16,389 --> 00:14:20,836
+Because, in their mind, they're only going to want one artificial planet.
+
+262
+00:14:20,837 --> 00:14:24,703
+Superintelligence. And that could be moments away,
+
+263
+00:14:24,708 --> 00:14:27,611
+once it understands how to self-improve.
+
+264
+00:14:27,612 --> 00:14:32,318
+And when a human being doesn't have to take
+
+265
+00:14:32,319 --> 00:14:37,102
+the eons of time, capture the what might only take minutes to
+
+266
+00:14:37,318 --> 00:14:39,535
+see if the model is doing the right thing,
+
+267
+00:14:39,536 --> 00:14:43,785
+moving in a safe direction. Because time will be of the essence,
+
+268
+00:14:44,804 --> 00:14:47,091
+yeah, and it doesn't matter,
+
+269
+00:14:47,092 --> 00:14:49,286
+right? Time is of the essence, yeah,
+
+270
+00:14:49,287 --> 00:14:53,956
+that's funny, that's a shame, but maybe time is of the essence,
+
+271
+00:14:54,660 --> 00:14:58,755
+and it will equate to this utopia that people discuss.
+
+272
+00:14:59,403 --> 00:15:03,015
+Overnight. Very quickly. It could take longer.
+
+273
+00:15:03,016 --> 00:15:05,465
+It could be that recursive self-improvement never happens.
+
+274
+00:15:05,466 --> 00:15:07,494
+It could be that, With artificial intelligence,
+
+275
+00:15:07,495 --> 00:15:12,196
+there's a wall that's hit. Something where there is a cap to prevent it.
+
+276
+00:15:12,197 --> 00:15:15,183
+Intelligence. You just don't get past a certain level.
+
+277
+00:15:15,184 --> 00:15:18,431
+Uh, a cat named Fermi.
+
+278
+00:15:18,432 --> 00:15:20,539
+I think this was in Los Alamos,
+
+279
+00:15:20,540 --> 00:15:23,452
+New Mexico, which is close to where I live,
+
+280
+00:15:23,453 --> 00:15:26,406
+and I'll finish with this. Fermi.
+
+281
+00:15:27,062 --> 00:15:31,577
+He is quoted to have been going out to dinner with some other Los
+
+282
+00:15:31,583 --> 00:15:36,573
+Alamos smart people and kind of joked and quipped at the table,
+
+283
+00:15:36,676 --> 00:15:40,569
+what if, what if the reason why we have the haven't met any alien
+
+284
+00:15:40,570 --> 00:15:45,075
+life out of this massive universe that we have with the
+
+285
+00:15:45,076 --> 00:15:48,111
+almost countless galaxies, at least from what we can understand,
+
+286
+00:15:48,112 --> 00:15:51,551
+and more planets, and all of them suns.
+
+287
+00:15:51,552 --> 00:15:55,453
+and the ability, and a lot of it older than we are on this
+
+288
+00:15:55,454 --> 00:15:59,365
+planet. Why is it that we've never been visited?
+
+289
+00:15:59,993 --> 00:16:02,305
+And the conclusion was, well,
+
+290
+00:16:02,614 --> 00:16:04,990
+they developed superpowers. Superintelligence,
+
+291
+00:16:04,991 --> 00:16:08,283
+or something better than themselves, and just never made it,
+
+292
+00:16:08,805 --> 00:16:11,171
+because it wiped them out. That's it.
+
+293
+00:16:11,172 --> 00:16:13,674
+That's the Fermi Paradox. That's why we haven't met anybody,
+
+294
+00:16:13,675 --> 00:16:16,300
+according to that particular statement.
+
+295
+00:16:16,662 --> 00:16:19,023
+Now, Javansberg. The Fermi Paradox is,
+
+296
+00:16:19,032 --> 00:16:21,485
+you know, everything's going to be in a utopia, cost of everything's going to
+
+297
+00:16:21,495 --> 00:16:26,096
+go down, it's going to be amazing. I don't know who I have more
+
+298
+00:16:26,097 --> 00:16:31,091
+faith in. I would hope it's the human to do the right thing.
+
+299
+00:16:31,092 --> 00:16:34,794
+And if this looks like something that's going to destroy us or harm us,
+
+300
+00:16:35,205 --> 00:16:39,490
+if, if that can even be figured out, then, then stopping was probably the
+
+301
+00:16:39,491 --> 00:16:41,902
+best case. However,
+
+302
+00:16:42,353 --> 00:16:46,337
+right now it's a race. Like the race back in the day to build
+
+303
+00:16:46,338 --> 00:16:49,631
+as many nuclear weapons as you could because there was a balance.
+
+304
+00:16:49,632 --> 00:16:52,656
+Balancing Act, Russia was building. Who is bigger?
+
+305
+00:16:52,657 --> 00:16:55,451
+That was the whole thing, it was a kakoff contest.
+
+306
+00:16:55,452 --> 00:17:00,206
+Who is bigger? And that happened for a long time until everybody signed a
+
+307
+00:17:00,207 --> 00:17:03,277
+treaty based on mutually assured destruction.
+
+308
+00:17:03,278 --> 00:17:07,641
+And everybody, Everybody would die if that would happen. Maybe that's the case where
+
+309
+00:17:07,809 --> 00:17:10,111
+artificial intelligence will end up being.
+
+310
+00:17:10,112 --> 00:17:12,887
+Maybe. Maybe there'll be a treaty. But right now,
+
+311
+00:17:12,888 --> 00:17:16,276
+I think greed and power are winning the game.
+
+312
+00:17:16,277 --> 00:17:18,773
+It feels like it.
+
+313
+00:17:18,774 --> 00:17:22,336
+But, we'll let you decide.
+
+314
+00:17:22,337 --> 00:17:26,396
+Do your research. It could be the most amazing thing that's ever happened to
+
+315
+00:17:26,806 --> 00:17:29,850
+the human race in the world. Or it could be something else.
+
+316
+00:17:30,805 --> 00:17:32,814
+Right now, we have very little say.
+
+317
+00:17:33,865 --> 00:17:38,357
+Right now, the politicians, ,are probably working on trying to figure out if this
+
+318
+00:17:38,593 --> 00:17:41,776
+open-source thing is even good. Because if they stop us,
+
+319
+00:17:41,777 --> 00:17:46,604
+...then that could really put a kink in all sorts of things.
+
+320
+00:17:47,150 --> 00:17:49,552
+And maybe that's good. Or maybe it's bad.
+
+321
+00:17:49,553 --> 00:17:52,733
+The same thing is if they have these open models,
+
+322
+00:17:53,005 --> 00:17:55,271
+the public-facing models that you pay for.
+
+323
+00:17:55,272 --> 00:18:00,041
+Stopping those, or pulling them back after they've so
+
+324
+00:18:00,042 --> 00:18:04,907
+kindly given them to us. That power flux is interesting.
+
+325
+00:18:05,218 --> 00:18:07,691
+The political game and insights are also interesting.
+
+326
+00:18:10,836 --> 00:18:12,297
+And the actual alignment of where everybody is and why this is happening in
+
+327
+00:18:12,298 --> 00:18:14,620
+its, in its own right. particular way,
+
+328
+00:18:14,621 --> 00:18:18,537
+which very much feels like a Laker playoff that just never ends.
+
+329
+00:18:19,095 --> 00:18:21,718
+Yeah. Interesting. I'm Conor with Honor.
+
+330
+00:18:21,719 --> 00:18:23,395
+We'll see you in the next one. Thanks for watching.
